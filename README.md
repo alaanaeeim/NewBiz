@@ -1,7 +1,6 @@
 # Bootstrap4-JQuery-Responsive-Website Project
 
-I'm used bootstrap and JQuery, Html, Css, Css3
-
+Link `https://newbiz-a26a9.web.app/`
 ## Screenshots
 <p>
       <img src="./screenShot/A.png" width="100%"   /> 
