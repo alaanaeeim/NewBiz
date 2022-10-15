@@ -10,4 +10,4 @@ Link `https://newbiz-a26a9.web.app/`
       <img src="./screenShot/E.png" width="100%" /> 
       <img src="./screenShot/F.png" width="100%" /> 
       <img src="./screenShot/G.png" width="100%" /> 
-</p># NewBiz
+</p>
